@@ -6,6 +6,9 @@ That's an excellent and highly sought-after career goal!
 
 Let's pick up right where we left off, detailed roadmap to becoming an AI Agent Developer.
 
+And for more updates just Follow **"PANAVERSITY"**, A Pakistani Startup, doing hard work to educate about Artificial Intelligence & Agentic AI.\
+**Panaversity link:** https://panaversity.org/
+
 # Career Plan: AI Agent Developer
 **01) Education/Pathways: Your Academic Journey (Continued)**\
 Alternative Pathways:\
@@ -88,3 +91,10 @@ If you are currently in High School:
 
 Focus on Fundamentals: Excel in Math (Algebra, Pre-Calculus, Calculus), Science (Physics, Computer Science principles).\
 Learn to Code: Start with Python. Use online tutorials (Codecademy, Khan Academy, freeCodeCamp
+
+And for details you can also my Links:\
+**LinkedIn:** https://www.linkedin.com/in/ambreen-abdul-raheem-122509300/
+
+**Faccebook:** https://www.facebook.com/profile.php?id=61557898913923
+
+**YouTube:** https://www.youtube.com/@AmbreenAbdulRaheem-y8m
