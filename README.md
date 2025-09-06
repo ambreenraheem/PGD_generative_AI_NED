@@ -68,7 +68,8 @@ If you enjoy aspects of AI Agent Development, you might also consider:
 **Robotics Engineer:** Specializes in designing and building robots, often incorporating AI agents for control.\
 **NLP Engineer:** Specializes in building systems that understand and generate human language.\
 **Computer Vision Engineer:** Specializes in building systems that interpret visual data.\
-**Software Engineer (with AI focus):** Integrates AI components into larger software systems.\
+**Software Engineer (with AI focus):** Integrates AI components into larger software systems.
+
 **05) Learning Resources: Where to Learn**\
 **Online Courses & Specializations:**\
 **Coursera: DeepLearning.AI Specializations (Andrew Ng's Machine Learning, Deep Learning, NLP), Google AI, IBM AI Engineering.**\
