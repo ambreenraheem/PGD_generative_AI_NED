@@ -14,6 +14,7 @@ And for more updates just Follow **"PANAVERSITY"**, A Pakistani Startup, doing h
 Alternative Pathways:\
 Bootcamps & Online Courses: Intensive AI/ML bootcamps (e.g., General Assembly, Springboard, Le Wagon) and specialized online courses (Coursera, edX, Udacity, fast.ai, DeepLearning.AI) can provide practical skills. These are best utilized to supplement a foundational degree or for career changers with strong technical backgrounds. They are excellent for hands-on project experience.\
 Self-Taught: While challenging, it's possible to become an AI Agent Developer through extensive self-study, open-source contributions, and building a strong project portfolio. This path requires immense discipline and a structured learning approach.\
+
 **02) Skills: What You'll Need to Master**\
 To excel as an AI Agent Developer, you'll need a blend of technical, analytical, and soft skills:
 
@@ -49,6 +50,7 @@ Attention to Detail: Crucial for debugging and ensuring model accuracy.\
 Communication: Explaining complex technical concepts to non-technical stakeholders.\
 Collaboration: Working effectively in teams.\
 Continuous Learning: The AI field evolves rapidly, so a passion for learning is vital.\
+
 **03) Salary & Outlook (Estimates)**\
 The demand for AI Agent Developers is incredibly high and projected to grow significantly for the foreseeable future.
 
@@ -68,7 +70,7 @@ If you enjoy aspects of AI Agent Development, you might also consider:
 **Robotics Engineer:** Specializes in designing and building robots, often incorporating AI agents for control.\
 **NLP Engineer:** Specializes in building systems that understand and generate human language.\
 **Computer Vision Engineer:** Specializes in building systems that interpret visual data.\
-**Software Engineer (with AI focus):** Integrates AI components into larger software systems.
+**Software Engineer (with AI focus):** Integrates AI components into larger software systems.\
 
 **05) Learning Resources: Where to Learn**\
 **Online Courses & Specializations:**\
@@ -87,6 +89,7 @@ YouTube Channels:\
 StatQuest with Josh Starmer, 3Blue1Brown, sentdex, freeCodeCamp.org.\
 Open Source Projects:\
 Contribute to existing AI projects on GitHub or start your own.\
+
 **06) Preparation by School Stage: A Timeline**\
 If you are currently in High School:
 
