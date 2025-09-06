@@ -92,7 +92,7 @@ If you are currently in High School:
 Focus on Fundamentals: Excel in Math (Algebra, Pre-Calculus, Calculus), Science (Physics, Computer Science principles).\
 Learn to Code: Start with Python. Use online tutorials (Codecademy, Khan Academy, freeCodeCamp
 
-And for details you can also my Links:\
+And for details you can also follow me from Links:\
 **LinkedIn:** https://www.linkedin.com/in/ambreen-abdul-raheem-122509300/
 
 **Faccebook:** https://www.facebook.com/profile.php?id=61557898913923
