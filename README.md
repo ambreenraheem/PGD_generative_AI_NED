@@ -13,7 +13,7 @@ And for more updates just Follow **"PANAVERSITY"**, A Pakistani Startup, doing h
 **01) Education/Pathways: Your Academic Journey (Continued)**\
 Alternative Pathways:\
 Bootcamps & Online Courses: Intensive AI/ML bootcamps (e.g., General Assembly, Springboard, Le Wagon) and specialized online courses (Coursera, edX, Udacity, fast.ai, DeepLearning.AI) can provide practical skills. These are best utilized to supplement a foundational degree or for career changers with strong technical backgrounds. They are excellent for hands-on project experience.\
-Self-Taught: While challenging, it's possible to become an AI Agent Developer through extensive self-study, open-source contributions, and building a strong project portfolio. This path requires immense discipline and a structured learning approach.\
+Self-Taught: While challenging, it's possible to become an AI Agent Developer through extensive self-study, open-source contributions, and building a strong project portfolio. This path requires immense discipline and a structured learning approach.
 
 **02) Skills: What You'll Need to Master**\
 To excel as an AI Agent Developer, you'll need a blend of technical, analytical, and soft skills:
@@ -49,7 +49,7 @@ Critical Thinking: Evaluating models, data, and approaches.\
 Attention to Detail: Crucial for debugging and ensuring model accuracy.\
 Communication: Explaining complex technical concepts to non-technical stakeholders.\
 Collaboration: Working effectively in teams.\
-Continuous Learning: The AI field evolves rapidly, so a passion for learning is vital.\
+Continuous Learning: The AI field evolves rapidly, so a passion for learning is vital.
 
 **03) Salary & Outlook (Estimates)**\
 The demand for AI Agent Developers is incredibly high and projected to grow significantly for the foreseeable future.
@@ -59,7 +59,7 @@ Mid-Level (3-5 years experience): $120,000 - $180,000+ USD annually.\
 Senior/Lead (5+ years experience): $180,000 - $250,000+ USD annually, potentially much higher at top tech companies or in specialized roles.\
 Note: These are general estimates for the US market and can vary widely based on location (e.g., Silicon Valley, New York, London, Berlin, Bangalore), company size, industry, and specific skill set. Global salaries will vary, but the trend of high demand and competitive compensation holds true in major tech hubs worldwide.\
 
-Outlook: Excellent. AI is transforming every industry, from healthcare and finance to manufacturing and entertainment. AI Agent Developers will be crucial in building the intelligent systems that drive this transformation, making it one of the most promising career paths of the 21st century.\
+Outlook: Excellent. AI is transforming every industry, from healthcare and finance to manufacturing and entertainment. AI Agent Developers will be crucial in building the intelligent systems that drive this transformation, making it one of the most promising career paths of the 21st century.
 
 **04) Related Roles: Other Paths in AI**\
 If you enjoy aspects of AI Agent Development, you might also consider:
@@ -70,7 +70,8 @@ If you enjoy aspects of AI Agent Development, you might also consider:
 **Robotics Engineer:** Specializes in designing and building robots, often incorporating AI agents for control.\
 **NLP Engineer:** Specializes in building systems that understand and generate human language.\
 **Computer Vision Engineer:** Specializes in building systems that interpret visual data.\
-**Software Engineer (with AI focus):** Integrates AI components into larger software systems.\
+**Software Engineer (with AI focus):** Integrates AI components into larger software systems.
+
 
 **05) Learning Resources: Where to Learn**\
 **Online Courses & Specializations:**\
@@ -88,7 +89,7 @@ Towards Data Science (Medium), Analytics Vidhya, Kaggle (competitions and tutori
 YouTube Channels:\
 StatQuest with Josh Starmer, 3Blue1Brown, sentdex, freeCodeCamp.org.\
 Open Source Projects:\
-Contribute to existing AI projects on GitHub or start your own.\
+Contribute to existing AI projects on GitHub or start your own.
 
 **06) Preparation by School Stage: A Timeline**\
 If you are currently in High School:
@@ -102,3 +103,5 @@ And for details you can also follow me from Links:\
 **Faccebook:** https://www.facebook.com/profile.php?id=61557898913923
 
 **YouTube:** https://www.youtube.com/@AmbreenAbdulRaheem-y8m
+
+**Hugging Face:** https://huggingface.co/ambreenraheem
