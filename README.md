@@ -1,7 +1,10 @@
 <img width="101" height="100" alt="ambreen" src="https://github.com/user-attachments/assets/50a1d015-d1d0-46d9-93a6-ed73ff2ebcb6" />
 
 
-### By Ambreen Abdul Raheem (Power BI Data Analyst And AI Agent Developer on Upwork as a Freelancer)
+### By Ambreen Abdul Raheem
+#### (Power BI Data Analyst And AI Agent Developer on Upwork as a Freelancer)
+**Upwork Link:** https://www.upwork.com/freelancers/~01d2856ced28d8eca8?s=1110580752008335360
+
 
 ![Agentic AI](https://github.com/user-attachments/assets/a8ef1bd2-afc0-4f15-b55c-cc11a6b1b30c)
 
