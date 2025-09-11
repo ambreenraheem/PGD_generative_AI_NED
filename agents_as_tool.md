@@ -46,3 +46,50 @@ When building AI systems, sometimes one main agent should stay in control of the
 
 👉 In short: Agent as a Tool = Smarter teamwork inside AI.
 One agent manages, others support.
+
+## 📰 Example 1: Agent as a Tool – News Assistant  
+
+This example shows how to use **Agent as a Tool** with a main agent that can fetch **Entertainment News** or **AI News** through specialist agents.
+
+```python
+import os
+from openai import OpenAI
+from some_sdk import Agent, Runner   # replace with actual SDK classes
+
+# Initialize OpenAI client
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+# Specialist Agent 1: Entertainment News
+entertainment_agent = Agent(
+    name="entertainment_news",
+    instructions="Fetch and summarize the latest entertainment news in simple bullet points."
+)
+
+entertainment_tool = entertainment_agent.as_tool()
+
+# Specialist Agent 2: AI News
+ai_news_agent = Agent(
+    name="ai_news",
+    instructions="Fetch and summarize the latest Artificial Intelligence (AI) news in simple bullet points."
+)
+
+ai_news_tool = ai_news_agent.as_tool()
+
+# Main Agent: Orchestrator
+main_agent = Agent(
+    name="main_agent",
+    instructions="""
+    You are a smart news assistant. 
+    - If the user asks about Entertainment, use the entertainment_news tool.  
+    - If the user asks about AI, use the ai_news tool.  
+    Always reply in a friendly and clear style.
+    """,
+    tools=[entertainment_tool, ai_news_tool]
+)
+
+# Example user query
+user_query = "Can you give me the latest updates in AI news?"
+
+# Run with Runner
+response = Runner.run(main_agent, user_query)
+print(response)
