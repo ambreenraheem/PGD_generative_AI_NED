@@ -3,6 +3,7 @@ Date: 11-September-2025
 <img width="101" height="100" alt="ambreen" src="https://github.com/user-attachments/assets/8d0b1b70-e7a3-462e-924e-5ee4ce0c8652" />
 
 ### By Ambreen Abdul Raheem
+(Power BI Data Analyst and AI Agent Developer / On Upwork as a Freelancer)
 
 For more information and details just go to the **OpenAI SDK GitHub** (https://openai.github.io/openai-agents-python/tools/)
 
