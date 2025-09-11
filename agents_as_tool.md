@@ -4,6 +4,8 @@ Date: 11-September-2025
 
 ### By Ambreen Abdul Raheem
 
+For more information and details just go to the **OpenAI SDK GitHub** (https://openai.github.io/openai-agents-python/tools/)
+
 ### Agent as a Tool 🛠️
 ### 📌 What it Means
 - A main agent stays in charge of the conversation.
@@ -44,99 +46,3 @@ When building AI systems, sometimes one main agent should stay in control of the
 
 👉 In short: Agent as a Tool = Smarter teamwork inside AI.
 One agent manages, others support.
-
-#### This is my Code:
-# Example: Agent as a Tool – News Assistant 📰
-
-This example shows how to use **Agent as a Tool** with a main agent that can fetch **Entertainment News** or **AI News** through specialist agents.
-
-```python
-import os
-from openai import OpenAI
-from some_sdk import Agent, Runner   # replace with actual SDK classes
-
-# Initialize OpenAI client
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-# Specialist Agent 1: Entertainment News
-entertainment_agent = Agent(
-    name="entertainment_news",
-    instructions="Fetch and summarize the latest entertainment news in simple bullet points."
-)
-
-entertainment_tool = entertainment_agent.as_tool()
-
-# Specialist Agent 2: AI News
-ai_news_agent = Agent(
-    name="ai_news",
-    instructions="Fetch and summarize the latest Artificial Intelligence (AI) news in simple bullet points."
-)
-
-ai_news_tool = ai_news_agent.as_tool()
-
-# Main Agent: Orchestrator
-main_agent = Agent(
-    name="main_agent",
-    instructions="""
-    You are a smart news assistant. 
-    - If the user asks about Entertainment, use the entertainment_news tool.  
-    - If the user asks about AI, use the ai_news tool.  
-    Always reply in a friendly and clear style.
-    """,
-    tools=[entertainment_tool, ai_news_tool]
-)
-
-# Example user query
-user_query = "Can you give me the latest updates in AI news?"
-
-# Run with Runner
-response = Runner.run(main_agent, user_query)
-print(response)```
-
-### OpenAI SDk python Program:
-# Example: Agent as a Tool – Translation Orchestrator 🌍
-
-This example shows how to use **Agent as a Tool** with an **orchestrator agent** that can translate text into Spanish or French using specialist agents.
-
-```python
-from agents import Agent, Runner
-import asyncio
-
-# Specialist Agent 1: Spanish Translator
-spanish_agent = Agent(
-    name="Spanish agent",
-    instructions="You translate the user's message to Spanish",
-)
-
-# Specialist Agent 2: French Translator
-french_agent = Agent(
-    name="French agent",
-    instructions="You translate the user's message to French",
-)
-
-# Orchestrator Agent: Uses both translation tools
-orchestrator_agent = Agent(
-    name="orchestrator_agent",
-    instructions=(
-        "You are a translation agent. You use the tools given to you to translate. "
-        "If asked for multiple translations, you call the relevant tools."
-    ),
-    tools=[
-        spanish_agent.as_tool(
-            tool_name="translate_to_spanish",
-            tool_description="Translate the user's message to Spanish",
-        ),
-        french_agent.as_tool(
-            tool_name="translate_to_french",
-            tool_description="Translate the user's message to French",
-        ),
-    ],
-)
-
-# Runner to execute the orchestrator
-async def main():
-    result = await Runner.run(orchestrator_agent, input="Say 'Hello, how are you?' in Spanish.")
-    print(result.final_output)
-
-# Run the example
-asyncio.run(main())```
