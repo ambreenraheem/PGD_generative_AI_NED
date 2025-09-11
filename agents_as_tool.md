@@ -6,7 +6,7 @@ Date: 11-September-2025
 #### (Power BI Data Analyst and AI Agent Developer / On Upwork as a Freelancer)
 **Upwork LInk:** https://www.upwork.com/freelancers/~01d2856ced28d8eca8 
 
-For more information and details just go to the **OpenAI SDK GitHub** (https://openai.github.io/openai-agents-python/tools/)
+For more information and details just go to the **OpenAI Agents SDK GitHub** (https://openai.github.io/openai-agents-python/tools/)
 
 ### Agent as a Tool 🛠️
 ### 📌 What it Means
