@@ -1,3 +1,8 @@
+<img width="101" height="100" alt="ambreen" src="https://github.com/user-attachments/assets/50a1d015-d1d0-46d9-93a6-ed73ff2ebcb6" />
+
+
+### By Ambreen Abdul Raheem (Power BI Data Analyst And AI Agent Developer on Upwork as a Freelancer)
+
 ![Agentic AI](https://github.com/user-attachments/assets/a8ef1bd2-afc0-4f15-b55c-cc11a6b1b30c)
 
 
@@ -57,7 +62,7 @@ The demand for AI Agent Developers is incredibly high and projected to grow sign
 Entry-Level (0-2 years experience): $80,000 - $120,000+ USD annually.\
 Mid-Level (3-5 years experience): $120,000 - $180,000+ USD annually.\
 Senior/Lead (5+ years experience): $180,000 - $250,000+ USD annually, potentially much higher at top tech companies or in specialized roles.\
-Note: These are general estimates for the US market and can vary widely based on location (e.g., Silicon Valley, New York, London, Berlin, Bangalore), company size, industry, and specific skill set. Global salaries will vary, but the trend of high demand and competitive compensation holds true in major tech hubs worldwide.\
+Note: These are general estimates for the US market and can vary widely based on location (e.g., Silicon Valley, New York, London, Berlin, Bangalore), company size, industry, and specific skill set. Global salaries will vary, but the trend of high demand and competitive compensation holds true in major tech hubs worldwide.
 
 Outlook: Excellent. AI is transforming every industry, from healthcare and finance to manufacturing and entertainment. AI Agent Developers will be crucial in building the intelligent systems that drive this transformation, making it one of the most promising career paths of the 21st century.
 
