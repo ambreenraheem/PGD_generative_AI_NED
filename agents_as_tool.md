@@ -46,27 +46,35 @@ When building AI systems, sometimes one main agent should stay in control of the
 One agent manages, others support.
 
 #### OpenAI SDk python Program:
+# Example: Agent as a Tool – Translation Orchestrator 🌍
+
+This example shows how to use **Agent as a Tool** with an **orchestrator agent** that can translate text into Spanish or French using specialist agents.
+
+```python
 from agents import Agent, Runner
 import asyncio
 
+# Specialist Agent 1: Spanish Translator
 spanish_agent = Agent(
     name="Spanish agent",
     instructions="You translate the user's message to Spanish",
 )
 
+# Specialist Agent 2: French Translator
 french_agent = Agent(
     name="French agent",
     instructions="You translate the user's message to French",
 )
 
+# Orchestrator Agent: Uses both translation tools
 orchestrator_agent = Agent(
     name="orchestrator_agent",
     instructions=(
-        "You are a translation agent. You use the tools given to you to translate."
+        "You are a translation agent. You use the tools given to you to translate. "
         "If asked for multiple translations, you call the relevant tools."
     ),
     tools=[
-            spanish_agent.as_tool(
+        spanish_agent.as_tool(
             tool_name="translate_to_spanish",
             tool_description="Translate the user's message to Spanish",
         ),
@@ -77,6 +85,10 @@ orchestrator_agent = Agent(
     ],
 )
 
+# Runner to execute the orchestrator
 async def main():
     result = await Runner.run(orchestrator_agent, input="Say 'Hello, how are you?' in Spanish.")
     print(result.final_output)
+
+# Run the example
+asyncio.run(main())
